@@ -1,7 +1,7 @@
 -- server.lua
 
 -- Set your Staff here
-local Owner = "Put your staff members here"
+local Staff = "Put your staff members here"
 
 -- Register the /staff command
 RegisterCommand("staff", function(source, args, rawCommand)
